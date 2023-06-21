@@ -1,7 +1,7 @@
 <template>
-  <div class="box">
-    <h1>我是APP根组件</h1>
-  </div>
+    <div class="box">
+        <h1>我是新增一个标题</h1>
+    </div>
 </template>
 
 <script setup lang="ts"></script>
